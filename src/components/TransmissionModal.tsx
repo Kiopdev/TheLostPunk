@@ -39,17 +39,16 @@ export default function TransmissionModal({ isOpen, onClose }: { isOpen: boolean
             
             {/* Local Video Loading with Fallback */}
             <video 
-              ref={videoRef}
-              src="/media/teaser.mp4" 
-              onError={(e) => {
-                const target = e.target as HTMLVideoElement;
-                target.src = "https://assets.mixkit.co/videos/preview/mixkit-cyberpunk-city-at-night-with-flying-cars-and-neon-lights-42512-large.mp4";
-              }}
-              className="w-full h-full object-cover"
-              controls
-              autoPlay
-              controlsList="nodownload"
-            />
+             ref={videoRef}
+              src="YOUR_VIDEO_URL_HERE"
+             className="w-full h-full object-cover"
+             controls
+             autoPlay
+             muted
+             loop
+             playsInline
+             controlsList="nodownload"
+             />
             
             {/* Reticle Overlay */}
             <div className="absolute inset-0 border border-white/5 pointer-events-none mix-blend-overlay">
