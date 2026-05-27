@@ -1,0 +1,23 @@
+[
+  {
+    "id": "engine-opt",
+    "title": "Engine Optimization: Core Loop",
+    "date": "2026-05-12",
+    "description": "Rewriting the main rendering loop to support massive volumetric fog volumes across the districts without tanking frame rates.",
+    "tags": ["Tech", "Optimization"]
+  },
+  {
+    "id": "ai-npc",
+    "title": "AI NPC Interaction",
+    "date": "2026-04-28",
+    "description": "Testing the new dynamic dialogue system. NPCs now react to environmental state changes in real-time.",
+    "tags": ["AI", "Gameplay"]
+  },
+  {
+    "id": "soundtrack",
+    "title": "Ambient Soundtrack Preview",
+    "date": "2026-04-10",
+    "description": "Recording industrial drones and distorted cello sequences for the Undercity.",
+    "tags": ["Audio", "Update"]
+  }
+]
