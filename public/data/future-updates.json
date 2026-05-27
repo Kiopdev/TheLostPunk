@@ -1,0 +1,17 @@
+[
+  {
+    "title": "District 04 Expansion",
+    "status": "In Progress",
+    "description": "Adding the underground neo-market district with fully explorable vertical slums."
+  },
+  {
+    "title": "Weapon Crafting Core",
+    "status": "Testing",
+    "description": "Modular weapon system allowing dynamic attachment swapping."
+  },
+  {
+    "title": "Faction System",
+    "status": "Planned",
+    "description": "Dynamic gang wars and territory control mechanics."
+  }
+]
