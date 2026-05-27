@@ -1,8 +1,6 @@
 {
-  "name": "The Lost Punk",
-  "description": "An immersive digital experience for the fictional AAA game THE LOST PUNK.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
+  "name": "Reclaimed Studios",
+  "description": "Cinematic AAA game studio interface for Project Reclaimed. Features 3D overgrown environments, volumetric atmospheric effects, audio visualizers, and interactive lore.",
+  "requestFramePermissions": ["autoplay"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
