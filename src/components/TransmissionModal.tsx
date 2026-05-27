@@ -40,7 +40,7 @@ export default function TransmissionModal({ isOpen, onClose }: { isOpen: boolean
             {/* Local Video Loading with Fallback */}
             <video 
              ref={videoRef}
-              src="YOUR_VIDEO_URL_HERE"
+              src="https://youtu.be/Skstk2ErxDU?si=jWDb5LMke6TpzCUZ"
              className="w-full h-full object-cover"
              controls
              autoPlay
