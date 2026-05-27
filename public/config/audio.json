@@ -1,0 +1,5 @@
+{
+  "ambientTrack": "/music.mp3",
+  "hoverSound": "/music/hover.mp3",
+  "clickSound": "/music/click.mp3"
+}
